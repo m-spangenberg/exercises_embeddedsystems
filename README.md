@@ -65,7 +65,7 @@
   - Verilog
 - Co-Verification and Co-Simulation
 
-## Chapter 7: Interfacing and Communication Protocols
+## Interfacing and Communication Protocols
 - Basics of Interfacing
   - Digital and Analog Signals
   - GPIO
